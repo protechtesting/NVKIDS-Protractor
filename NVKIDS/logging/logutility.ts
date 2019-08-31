@@ -11,6 +11,8 @@ export class logutility{
 				// - Write all logs error (and above) to Console/terminal
         new transports.Console()
 
+        //log file
+
         ]
     });
 }
